@@ -1,2 +1,4 @@
 # hello-world
-master: just a test repository
+new
+just a test repository
+
