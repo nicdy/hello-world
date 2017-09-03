@@ -1,3 +1,3 @@
 # hello-world
-just a test repository
+readme-edits:just a test repository
 new
